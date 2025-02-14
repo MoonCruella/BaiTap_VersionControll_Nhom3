@@ -1,4 +1,4 @@
-# BaiTap_VersionControll_Nhom3
+#Bai tap Version Controll - Buoi 3
 
 Nhóm 3 :  
 22110385 - Lê Huỳnh Như Nguyệt  
@@ -6,4 +6,4 @@ Nhóm 3 :
 22110380 - Trần Trọng Nghĩa  
 22110454 - Lê Văn Tú  
 22110423 - Huỳnh Quốc Thắng  
-Tập thực hành Version Controll thông qua Github
+Tập thực hành Version Controll thông qua Github va TortoiseGit
