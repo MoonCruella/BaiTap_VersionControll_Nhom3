@@ -1,7 +1,8 @@
-#Bai tap Version Controll - Buoi 3 Sua lan 3 //Huuynh Quoc Thang 14/2/2025
+#Bai tap Version Controll - Buoi 3 Sua lan 3
 
 Nhóm 3 :  
 
 Tập thực hành Version Controll thông qua Github va TortoiseGit
 
-hello world
+thực hiện thay đổi
+lê văn tú 22110454
