@@ -8,3 +8,4 @@ Nhóm 3 :
 22110454 - Lê Văn Tú  
 22110423 - Huỳnh Quốc Thắng  
 Tập thực hành Version Controll thông qua Github va TortoiseGit
+Thực hiện thay đổi và xử lý xung đột
